@@ -53,6 +53,7 @@ public class Homepagetest {
 		@Test
 		public void verifyaddtocart()
 		{
+system();
 
 }
 }
